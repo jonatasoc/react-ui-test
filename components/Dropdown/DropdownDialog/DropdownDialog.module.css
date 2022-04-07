@@ -1,0 +1,7 @@
+.container {
+  background-color: #272b34;
+  transition: all 0.3s;
+
+  position: absolute;
+  right: 0px;
+}
